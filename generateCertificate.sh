@@ -1,0 +1,1 @@
+docker compose run --rm certbot certonly --webroot --webroot-path /var/www/certbot/ --agree-tos --email firestyl@yandex.ru --domains petsocial.rogatt.ru
